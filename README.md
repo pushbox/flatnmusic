@@ -80,7 +80,7 @@
 3. 搭配辅助用户脚本实现附加功能有：网页高清图片加载、增强版我的音乐页面、增强版用户页面、增强版朋友动态页面、增强版歌手页等。
 4. 建议高分辨屏幕用户使用辅助用户脚本加载高清图片。
 5. 前往安装 Stylus 浏览器扩展: [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) | [Firefox](https://addons.mozilla.org/firefox/addon/styl-us/) | [Opera](https://addons.opera.com/extensions/details/stylus/)
-6. Userstyles.org 旧版入口（已经停止于版本 0.3.81）：[前往 Userstyles.org 安装](https://userstyles.org/styles/155372)。未在 userstyles.org 更新的原因已列出于[更新日志](https://github.com/wTonyChen/flatnmusic/blob/master/CHANGELOG.md#0387-r2)。
+6. userstyles.org 旧版入口（已经停止于版本 0.3.81）：[前往安装](https://userstyles.org/styles/155372)。未在 userstyles.org 更新的原因已列出于[更新日志](https://github.com/wTonyChen/flatnmusic/blob/master/CHANGELOG.md#0387-r2)。
 
 <br>
 
