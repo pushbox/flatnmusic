@@ -9,10 +9,10 @@
 <hr>
 <br><br><br>
 
-⚠ 需搭配最新的桌面版 Chrome, Firefox 和 Opera 浏览器使用。<br>
+⚠ 推荐搭配最新的桌面版 Google Chrome, Microsoft Edge (Chromium 版本) 或 Opera 浏览器使用。<br>
 🗨 不知道自己是否使用最新的浏览器？[点此检查并更新](https://browser-update.org/update.html)<br><br>
 
-**样式表下载 (*0.5.0*)**：
+**样式表下载 (*0.5.1*)**：
 [Usercss 版本](https://raw.githubusercontent.com/wTonyChen/flatnmusic/master/flatnmusic.user.css) (适用于 Stylus，含手动调整功能) | [标准版本](https://raw.githubusercontent.com/wTonyChen/flatnmusic/master/flatnmusic.min.css) (适用于大多数浏览器样式扩展，不含手动调整功能)<br>
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg)](https://raw.githubusercontent.com/wTonyChen/flatnmusic/master/flatnmusic.user.css)
 
